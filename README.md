@@ -84,8 +84,8 @@ pip3 install -r requirement. txt
     In order to test the site, 5 fictitious users are registered with some tickets and reviews
     in the "db.sqlite3" database made available in the repository:
 
-        - leon28
-        - jean35
+        - goku1
+        - kyubi1974
 
         the password for users: P@ssword1
 

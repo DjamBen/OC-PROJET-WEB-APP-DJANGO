@@ -85,7 +85,7 @@ pip3 install -r requirement. txt
     in the "db.sqlite3" database made available in the repository:
 
         - goku1
-        - kyubi1974
+        - vegeta4
 
         the password for users: P@ssword1
 
